@@ -1,3 +1,34 @@
+# 插件
+
+## whistle.middleware
+
+https://github.com/alanwei43/whistle.middleware
+
+## whistle.inspect
+
+```
+# 在匹配 pattern 的页面中插入 eruda
+pattern whistle.inspect://eruda # 或 whistle.inspect://e
+
+# 在匹配 pattern 的页面中插入 vConsole
+pattern whistle.inspect://vconsole # 或 whistle.inspect://v
+
+# 在匹配 pattern 的页面中插入 mdebug
+pattern whistle.inspect://mdebug # 或 whistle.inspect://m
+```
+
+## whistle.savemock
+
+https://github.com/alanwei43/whistle.savemock
+
+## whistle.x-scripts
+
+https://github.com/lzwme/whistle.x-scripts
+
+## whistle.savemock
+
+https://github.com/alanwei43/whistle.savemock
+
 # Whistle 客户端
 
 中文 · [English](./README-en_US.md)

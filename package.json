@@ -74,8 +74,8 @@
     }
   },
   "devDependencies": {
-    "electron": "~25.9.8",
-    "electron-builder": "^24.4.0",
+    "electron": "31.0.2",
+    "electron-builder": "24.13.3",
     "eslint": "^8.45.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.27.5",
@@ -90,6 +90,9 @@
     "npminstall": "^7.9.0",
     "sudo-prompt": "^9.2.1",
     "whistle": "^2.9.102",
-    "whistle.proxyauth": "^1.1.5"
+    "whistle.inspect": "^2.3.0",
+    "whistle.middleware": "^1.0.11",
+    "whistle.proxyauth": "^1.1.5",
+    "whistle.savemock": "^1.0.2"
   }
 }
